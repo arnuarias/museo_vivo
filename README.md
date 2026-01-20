@@ -1,16 +1,40 @@
-# museo_vivo
+# Tourist Attractions App
 
-A new Flutter project.
+## Description
 
-## Getting Started
+A cross-platform mobile application developed using Flutter, designed 
+to showcase tourist attractions and places of interest. This project 
+was created as a digital project for elementary school students, 
+combining educational content with practical mobile development skills.
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![Home Screen](main.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Attractions](lancha.png)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- Browse popular tourist destinations
+- View images and descriptions of landmarks
+- User-friendly interface designed for children
+- Interactive maps and location information
+- Cross-platform compatibility (Android & iOS)
+
+## Technologies Used
+
+- Flutter
+- Dart
+
+## Target Audience
+
+Elementary school students and young learners interested in 
+exploring tourist attractions and cultural landmarks.
+
+## Purpose
+
+This application was developed as an educational digital project, 
+demonstrating mobile app development fundamentals while promoting 
+tourism awareness among young students.
+
+##
